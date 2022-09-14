@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://TyphooNN.github.io",
+  site: "https://ziirofan.github.io",
   base: '/TyphooNN.github.io',
   integrations: [
     tailwind(),
